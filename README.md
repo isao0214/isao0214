@@ -2,8 +2,7 @@
 
 * name: Isao Ebisujima
 * location: Tokyo/Japan
-* organization: Timothy, Inc.
-* role: Web Application Engineer
+* role: Web Application Engineer, Project Manager
 * language & tool: Go, Ruby, AWS, GCP, Stripe
 
 # Social
